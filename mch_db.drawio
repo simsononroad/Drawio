@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="1 oldal" id="y_qIfGNqfsx6uK5qbTcL">
-    <mxGraphModel dx="3155" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3155" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,6 +299,29 @@
               <mxPoint x="560" y="336" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T174AfcfLyUN4_4Oabp8-66" edge="1" parent="1" source="T174AfcfLyUN4_4Oabp8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#b0e3e6;strokeColor=#0e8088;curved=0;" target="T174AfcfLyUN4_4Oabp8-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="-158" />
+              <mxPoint x="310" y="-50" />
+              <mxPoint x="-1060" y="-50" />
+              <mxPoint x="-1060" y="441" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T174AfcfLyUN4_4Oabp8-67" edge="1" parent="1" source="T174AfcfLyUN4_4Oabp8-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#b0e3e6;strokeColor=#0e8088;" target="T174AfcfLyUN4_4Oabp8-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="-146" />
+              <mxPoint x="330" y="10" />
+              <mxPoint x="-680" y="10" />
+              <mxPoint x="-680" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T174AfcfLyUN4_4Oabp8-65" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;IDŐ&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="-190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
