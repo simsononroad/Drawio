@@ -613,7 +613,7 @@
         <mxCell id="T174AfcfLyUN4_4Oabp8-125" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Összeadás&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="90" x="1069.8600000000001" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="T174AfcfLyUN4_4Oabp8-126" edge="1" parent="1" source="T174AfcfLyUN4_4Oabp8-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="T174AfcfLyUN4_4Oabp8-125">
+        <mxCell id="T174AfcfLyUN4_4Oabp8-126" edge="1" parent="1" source="T174AfcfLyUN4_4Oabp8-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="T174AfcfLyUN4_4Oabp8-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T174AfcfLyUN4_4Oabp8-130" edge="1" parent="1" source="T174AfcfLyUN4_4Oabp8-128" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;curved=0;" target="T174AfcfLyUN4_4Oabp8-52">
