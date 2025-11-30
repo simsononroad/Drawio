@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="1 oldal" id="y_qIfGNqfsx6uK5qbTcL">
-    <mxGraphModel dx="4699" dy="3634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1734" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -883,8 +883,17 @@
         <mxCell id="70YwWaew83IQ-R0VRITF-4" parent="70YwWaew83IQ-R0VRITF-1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="60" width="60" x="-220" y="-1383" as="geometry" />
         </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-32" edge="1" parent="70YwWaew83IQ-R0VRITF-1" source="70YwWaew83IQ-R0VRITF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" target="70YwWaew83IQ-R0VRITF-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="-1000" />
+              <mxPoint x="-90" y="-1000" />
+            </Array>
+            <mxPoint x="-30" y="-1043.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="70YwWaew83IQ-R0VRITF-7" parent="70YwWaew83IQ-R0VRITF-1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" value="ott_lesz" vertex="1">
-          <mxGeometry height="176" width="160" x="-270" y="-1273" as="geometry" />
+          <mxGeometry height="176" width="160" x="-270" y="-1220" as="geometry" />
         </mxCell>
         <mxCell id="70YwWaew83IQ-R0VRITF-8" parent="70YwWaew83IQ-R0VRITF-7" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" value="id" vertex="1">
           <mxGeometry height="30" width="160" y="26" as="geometry" />
@@ -906,6 +915,55 @@
         </mxCell>
         <mxCell id="70YwWaew83IQ-R0VRITF-24" parent="70YwWaew83IQ-R0VRITF-1" style="rounded=1;whiteSpace=wrap;html=1;" value="User id" vertex="1">
           <mxGeometry height="40" width="80" x="-230" y="-1470" as="geometry" />
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-25" parent="70YwWaew83IQ-R0VRITF-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Van ilyen id-vel felhasználó?&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="-285" y="-1300.5" as="geometry" />
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-26" parent="70YwWaew83IQ-R0VRITF-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Igen&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-300" y="-1044" as="geometry" />
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-29" edge="1" parent="70YwWaew83IQ-R0VRITF-1" source="70YwWaew83IQ-R0VRITF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" target="70YwWaew83IQ-R0VRITF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-27" parent="70YwWaew83IQ-R0VRITF-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Ott_lesz értéke legyen !ott_lesz&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="-380" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-28" edge="1" parent="70YwWaew83IQ-R0VRITF-1" source="70YwWaew83IQ-R0VRITF-12" style="endArrow=classic;html=1;rounded=1;exitX=0.19;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=0;" target="70YwWaew83IQ-R0VRITF-27" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-240" y="-990" />
+              <mxPoint x="-290" y="-990" />
+            </Array>
+            <mxPoint x="-280" y="-970" as="sourcePoint" />
+            <mxPoint x="-320" y="-970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-30" parent="70YwWaew83IQ-R0VRITF-1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="!ott_lesz=az ott lesz boolean állapotának ellentetje" vertex="1">
+          <mxGeometry height="80" width="200" x="-440" y="-850" as="geometry" />
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-31" edge="1" parent="70YwWaew83IQ-R0VRITF-1" source="70YwWaew83IQ-R0VRITF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 4;endArrow=none;endFill=0;curved=1;" target="70YwWaew83IQ-R0VRITF-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-320" y="-860" />
+              <mxPoint x="-360" y="-860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-33" parent="70YwWaew83IQ-R0VRITF-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Nem&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-150" y="-1044" as="geometry" />
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-35" edge="1" parent="70YwWaew83IQ-R0VRITF-1" source="70YwWaew83IQ-R0VRITF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;curved=0;" target="70YwWaew83IQ-R0VRITF-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="-850" />
+              <mxPoint x="30" y="-850" />
+              <mxPoint x="30" y="-1230" />
+              <mxPoint x="-150" y="-1230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="70YwWaew83IQ-R0VRITF-34" parent="70YwWaew83IQ-R0VRITF-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Új sor hozzáadása és az ott_lesz = True val&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="-150" y="-970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
